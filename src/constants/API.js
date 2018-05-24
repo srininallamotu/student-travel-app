@@ -1,0 +1,1 @@
+export const GET_COUNTIRES_AND_THREAT_LEVELS_URL="https://web-travel-test.cc.uic.edu/countries";
